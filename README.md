@@ -14,5 +14,6 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 
 **Key Contributions:** 
 * Algorithm Development
+  Designed and optimized Serializable Read methodology targetting high number of query processing per second.
 * Performance Comparison
 * Reserach Leadership

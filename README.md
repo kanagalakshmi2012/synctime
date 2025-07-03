@@ -2,11 +2,11 @@
 **It's a metric used to measure the number of requests a system receives and processes per second.**
 
 **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**\
-* Author: \
-* Published In : \
-* Publication Date:\
-* E-ISSN:\
-* Impact Factor:\
+* Author: 
+* Published In : 
+* Publication Date:
+* E-ISSN:
+* Impact Factor:
 * Link:
 
 **Abstract**:\

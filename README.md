@@ -1,7 +1,7 @@
 # synctime
 **Sync time, or time synchronization, refers to the process of aligning the clocks on two or more devices or systems to ensure they display the same time.**
 
-**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION** \
+**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION** 
 * Author: 
 * Published In : 
 * Publication Date:

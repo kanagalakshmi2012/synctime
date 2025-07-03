@@ -1,7 +1,7 @@
-# queries
+# synctime
 **It's a metric used to measure the number of requests a system receives and processes per second.**
 
-**OPTIMIZING READ PERFORMANCE IN DISTRIBUTED SYSTEMS WITH LEASE-BASED LATENCY**\
+**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION**\
 * Author: 
 * Published In : 
 * Publication Date:

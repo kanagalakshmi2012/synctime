@@ -24,8 +24,11 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 * **Kubernetes infrastructure optimization:**\
     Enhances distributed key-value store performance by improving the number of queries to process per second.
 * **Query Processing Improvement:** \
+*   need to add here
 * **Academic Recognition :** \
+*   need to add here
 * **Educational Impact:** \
+*   need to add here
 
 **Experimental Results (Summary)**
 

@@ -17,7 +17,7 @@ In distributed systems, accurate time synchronization is vital for maintaining c
   Designed and optimized Chrony sync time algorithm to achieve high write availability in distributed systems.
 * **Performance Comparison** \
   Conducted bench marking between NTP Sync time and Chrony sync time.
-* **Reserach Leadership**
+* **Reserach Leadership** \
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
@@ -33,16 +33,16 @@ In distributed systems, accurate time synchronization is vital for maintaining c
 **Experimental Results (Summary)**
 
 
-| Cluster Size (Nodes) | Linearizable Read QPS | Serializable Read QPS | Improvement (%) |
-| ---------------------| --------------------- | --------------------- | ----------------|
-| 3                    | 1200                  | 1350                  | 12.5            |
-| 5                    | 1050                  | 1250                  | 19.0            |
-| 7                    | 900                   | 1100                  | 22.2            |
-| 9                    | 800                   | 1050                  | 31.3            |
-| 11                   | 700                   |  950                  | 35.7            |
+| Cluster Size (Nodes) | NTP Sync Time (minutes) | Chrony Sync Time (minutes) | Improvement (%) |
+| ---------------------| ----------------------- | -------------------------- | ----------------|
+| 3                    | 8                       | 1                          | 87.5            |
+| 5                    | 10                      | 1                          | 90              |
+| 7                    | 13                      | 2                          | 84.6            |
+| 9                    | 16                      | 2                          | 87.5            |
+| 11                   | 18                      | 3                          | 83.3            |
 
 **Citation**
-* **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**
+* **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process.**
 *   Naveen Srikanth Pasupuleti
 *   International Journal of
 *   E-ISSN- 

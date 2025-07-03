@@ -37,4 +37,9 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 | 7                    | 900                   | 1100                  | 22.2            |
 | 9                    | 800                   | 1050                  | 31.3            |
 | 11                   | 700                   |  950                  | 35.7            |
-   
+
+**Citation**
+* **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**
+*   Naveen Srikanth Pasupuleti
+*   International Journal of
+*   E-ISSN-

@@ -32,7 +32,8 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 | Cluster Size (Nodes) | Linearizable Read QPS | Serializable Read QPS | Improvement (%) |
 | ---------------------| --------------------- | --------------------- | ----------------|
 | 3                    | 1200                  | 1350                  | 12.5            |
-| 5                    | Content Cell          |                       |                 |
-| 7                    |                       |                       |                 |
-| 9                    |                       |                       |                 |
-  
+| 5                    | 1050                  | 1250                  | 19.0            |
+| 7                    | 900                   | 1100                  | 22.2            |
+| 9                    | 800                   | 1050                  | 31.3            |
+| 11                   | 700                   |  950                  | 35.7            |
+   

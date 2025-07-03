@@ -1,7 +1,7 @@
 # synctime
-**It's a metric used to measure the number of requests a system receives and processes per second.**
+**Sync time, or time synchronization, refers to the process of aligning the clocks on two or more devices or systems to ensure they display the same time.**
 
-**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION**\
+**ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION** \
 * Author: 
 * Published In : 
 * Publication Date:
@@ -10,20 +10,20 @@
 * Link:
 
 **Abstract**:\
-ETCD is a distributed key-value store that ensures high availability and strong consistency using the Raft consensus protocol. It supports two types of read operations: linearizable reads, which guarantee the most up-to-date data but with higher latency, and serializable reads, which offer lower latency with slightly stale data. This paper focuses on improving performance issues caused by linearizable reads by leveraging serializable read operations. By balancing consistency and efficiency, the approach enhances ETCD’s scalability and responsiveness. This makes ETCD more adaptable for diverse distributed system needs.
+In distributed systems, accurate time synchronization is vital for maintaining consistency and coordination among nodes. Traditional Network Time Protocol (NTP) often suffers from high synchronization delays, especially in large-scale systems with many nodes and high network latency. These delays can lead to inconsistencies in data replication and hinder time-sensitive operations. This paper proposes the use of Chrony Sync, a more efficient time synchronization method, to significantly reduce synchronization times. By optimizing synchronization, Chrony enhances system performance, consistency, and reliability in large distributed environments.
 
 **Key Contributions:** 
 * **Algorithm Development** \
-  Designed and optimized Serializable Read methodology targetting high number of query processing per second.
+  Designed and optimized Chrony sync time algorithm to achieve high write availability in distributed systems.
 * **Performance Comparison** \
-  Conducted bench marking between Linearizable Read qps and Serializable Read qps.
+  Conducted bench marking between NTP Sync time and Chrony sync time.
 * **Reserach Leadership**
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
 
 **Relevance & Real-World Impact**
 * **Kubernetes infrastructure optimization:**\
-    Enhances distributed key-value store performance by improving the number of queries to process per second.
-* **Query Processing Improvement:** \
+    Enhances distributed key-value store performance by improving the write availability in distributed systems.
+* **Write availability Improvement:** \
     need to add here
 * **Academic Recognition :** \
     need to add here

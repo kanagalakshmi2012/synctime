@@ -51,4 +51,4 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 * IJFMR Site please 
 
 **Author Contact** \
-  LinkedIn| Email:
+  * LinkedIn| Email:

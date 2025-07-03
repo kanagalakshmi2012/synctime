@@ -42,13 +42,13 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 * **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED KEY-VALUE STORES USING SERIALIZABLE CONSISTENCY**
 *   Naveen Srikanth Pasupuleti
 *   International Journal of
-*   E-ISSN- \
+*   E-ISSN- 
 
 **License**
-* This reserach is shared for a academic and reserach purposes. For commercial use, please contact the author.\
+* This reserach is shared for a academic and reserach purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site please \
+* IJFMR Site please 
 
 **Author Contact** \
   LinkedIn| Email:

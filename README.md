@@ -19,3 +19,9 @@ ETCD is a distributed key-value store that ensures high availability and strong 
   Conducted bench marking between Linearizable Read qps and Serializable Read qps.
 * **Reserach Leadership**
   Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
+
+**Relevance & Real-World Impact**
+* **Kubernetes infrastructure optimization:**\
+* **Query Processing Improvement:** \
+* **Academic Recognition :** \
+* **Educational Impact:** \

@@ -26,5 +26,6 @@ ETCD is a distributed key-value store that ensures high availability and strong 
 * **Query Processing Improvement:** \
 * **Academic Recognition :** \
 * **Educational Impact:** \
+
 **Experimental Results (Summary)** \
   

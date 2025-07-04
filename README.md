@@ -2,12 +2,12 @@
 **Sync time, or time synchronization, refers to the process of aligning the clocks on two or more devices or systems to ensure they display the same time.**
 
 **ACHIEVING HIGH WRITE AVAILABILITY IN DISTRIBUTED SYSTEMS THROUGH MULTI-LEADER REPLICATION** 
-* Author: 
-* Published In : 
-* Publication Date:
-* E-ISSN:
-* Impact Factor:
-* Link:
+* Author: Naveen Srikanth Pasupuleti
+* Published In : International Journal on Science and Technology (IJSAT)
+* Publication Date: 06-2022
+* E-ISSN: 2229-7677
+* Impact Factor: 9.88
+* Link: https://www.ijsat.org/research-paper.php?id=5841
 
 **Abstract**:\
 In distributed systems, accurate time synchronization is vital for maintaining consistency and coordination among nodes. Traditional Network Time Protocol (NTP) often suffers from high synchronization delays, especially in large-scale systems with many nodes and high network latency. These delays can lead to inconsistencies in data replication and hinder time-sensitive operations. This paper proposes the use of Chrony Sync, a more efficient time synchronization method, to significantly reduce synchronization times. By optimizing synchronization, Chrony enhances system performance, consistency, and reliability in large distributed environments.
@@ -44,14 +44,15 @@ In distributed systems, accurate time synchronization is vital for maintaining c
 **Citation**
 * **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process.**
 *   Naveen Srikanth Pasupuleti
-*   International Journal of
-*   E-ISSN- 
+*   International Journal on Science and Technology
+*   E-ISSN-2229-7677
 
 **License**
-* This reserach is shared for a academic and reserach purposes. For commercial use, please contact the author.
+* This research is shared for a academic and research purposes. For commercial use, please contact the author.
 
 **Resources**
-* IJFMR Site please 
+* IJSAT Site: https://www.ijsat.org/
 
 **Author Contact** 
-  * LinkedIn| Email:
+  * LinkedIn: https://www.linkedin.com/in/naveensrikanth/
+  * Email: connect.naveensrikanth@gmail.com

@@ -43,7 +43,7 @@ In distributed systems, accurate time synchronization is vital for maintaining c
 
 **Citation**
 * **OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process.**
-*   Naveen Srikanth Pasupuleti
+*   Kanagalakshmi Murugan
 *   International Journal on Science and Technology
 *   E-ISSN-2229-7677
 
